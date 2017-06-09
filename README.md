@@ -1,4 +1,4 @@
-# Pre-work - *hellorubyonrails*
+# Pre-work - *hellomyfirstrubyonrails*
 
 > HINT: Please
 > - include this README.md in your project and fill out the information. 
