@@ -85,6 +85,9 @@ Refer: https://stackoverflow.com/questions/29293321/ruby-on-windows-causes-error
 
 5. Getting: “Migrations are pending; run 'bin/rake db:migrate RAILS_ENV=development' to resolve this issue.” 
 
+6. Some features such as new comment is not work after I finish almost all requirement.
+I could not figure out why at this deadline now then I try to submit the pre-work beforehand.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
