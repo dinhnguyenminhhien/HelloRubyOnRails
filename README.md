@@ -11,7 +11,7 @@ Submitted by: **DINH NGUYEN MINH HIEN**
 
 Time spent: **16** hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: **https://hellomyfirstrubyonrails.herokuapp.com/**
 
 ## User Stories
 
